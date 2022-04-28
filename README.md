@@ -1,1 +1,1 @@
-# WhitelistSmartContract
+# WhitelistSmartContract for the SYN token. 
